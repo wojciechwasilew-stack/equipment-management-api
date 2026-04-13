@@ -1,8 +1,0 @@
-com/tequipy/equipment/application/service/EquipmentServiceEdgeCaseTest.class
-com/tequipy/equipment/application/service/AllocationServiceEdgeCaseTest.class
-com/tequipy/equipment/application/port/in/CreateAllocationCommandTest.class
-com/tequipy/equipment/application/service/EquipmentServiceTest.class
-com/tequipy/equipment/application/service/AllocationServiceTest.class
-com/tequipy/equipment/application/service/AllocationProcessorServiceEdgeCaseTest.class
-com/tequipy/equipment/application/service/AllocationProcessorServiceTest.class
-com/tequipy/equipment/application/port/in/RegisterEquipmentCommandTest.class
