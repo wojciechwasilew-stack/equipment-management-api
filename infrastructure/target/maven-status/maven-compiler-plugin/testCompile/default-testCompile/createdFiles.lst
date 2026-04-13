@@ -1,0 +1,14 @@
+com/tequipy/equipment/InfrastructureTestApplication.class
+com/tequipy/equipment/adapter/in/rest/AllocationControllerWebMvcTest.class
+com/tequipy/equipment/adapter/in/rest/EquipmentControllerWebMvcTest.class
+com/tequipy/equipment/adapter/out/persistence/EquipmentRepositoryIntegrationTest.class
+com/tequipy/equipment/infrastructure/ArchitectureTest$PortsRules.class
+com/tequipy/equipment/infrastructure/ArchitectureTest.class
+com/tequipy/equipment/adapter/out/persistence/EquipmentPersistenceAdapterIntegrationTest.class
+com/tequipy/equipment/infrastructure/ArchitectureTest$DependencyDirectionRules.class
+com/tequipy/equipment/infrastructure/ArchitectureTest$ApplicationLayerRules.class
+com/tequipy/equipment/adapter/out/messaging/AllocationEventPublisherAdapterIntegrationTest.class
+com/tequipy/equipment/adapter/out/persistence/AllocationPersistenceAdapterIntegrationTest.class
+com/tequipy/equipment/infrastructure/ArchitectureTest$DomainLayerRules.class
+com/tequipy/equipment/adapter/out/persistence/AllocationRepositoryIntegrationTest.class
+com/tequipy/equipment/infrastructure/ArchitectureTest$AdapterIndependenceRules.class

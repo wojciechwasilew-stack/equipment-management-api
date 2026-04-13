@@ -1,0 +1,9 @@
+/Users/macbook/Desktop/equipment-management-api/infrastructure/src/test/java/com/tequipy/equipment/InfrastructureTestApplication.java
+/Users/macbook/Desktop/equipment-management-api/infrastructure/src/test/java/com/tequipy/equipment/adapter/in/rest/AllocationControllerWebMvcTest.java
+/Users/macbook/Desktop/equipment-management-api/infrastructure/src/test/java/com/tequipy/equipment/adapter/in/rest/EquipmentControllerWebMvcTest.java
+/Users/macbook/Desktop/equipment-management-api/infrastructure/src/test/java/com/tequipy/equipment/adapter/out/messaging/AllocationEventPublisherAdapterIntegrationTest.java
+/Users/macbook/Desktop/equipment-management-api/infrastructure/src/test/java/com/tequipy/equipment/adapter/out/persistence/AllocationPersistenceAdapterIntegrationTest.java
+/Users/macbook/Desktop/equipment-management-api/infrastructure/src/test/java/com/tequipy/equipment/adapter/out/persistence/AllocationRepositoryIntegrationTest.java
+/Users/macbook/Desktop/equipment-management-api/infrastructure/src/test/java/com/tequipy/equipment/adapter/out/persistence/EquipmentPersistenceAdapterIntegrationTest.java
+/Users/macbook/Desktop/equipment-management-api/infrastructure/src/test/java/com/tequipy/equipment/adapter/out/persistence/EquipmentRepositoryIntegrationTest.java
+/Users/macbook/Desktop/equipment-management-api/infrastructure/src/test/java/com/tequipy/equipment/infrastructure/ArchitectureTest.java

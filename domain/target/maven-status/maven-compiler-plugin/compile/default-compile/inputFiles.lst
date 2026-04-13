@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/event/AllocationCreatedEvent.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/exception/AllocationFailedException.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/exception/AllocationNotFoundException.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/exception/DomainException.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/exception/EquipmentNotFoundException.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/exception/InvalidAllocationStateTransitionException.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/exception/InvalidEquipmentStateTransitionException.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/model/AllocationRequest.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/model/AllocationState.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/model/ConditionScore.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/model/Equipment.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/model/EquipmentState.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/model/EquipmentType.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/model/PolicyItem.java
+/Users/macbook/Desktop/equipment-management-api/domain/src/main/java/com/tequipy/equipment/domain/service/AllocationAlgorithm.java
